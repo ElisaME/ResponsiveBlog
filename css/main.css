@@ -1,0 +1,112 @@
+/* Inserta tu codigo aqui */
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
+body{
+	background-color: #342738 !important;
+}
+/* Margin */
+.mt-2{
+	margin-top: 2%;
+}
+.mt-5{
+	margin-top: 5%;
+}
+.m0{
+	margin: 0;
+}
+/*Padding*/
+.p2{
+	padding: 2%;
+}
+/* Text */
+.text-white{
+	color: white;
+}
+.text-yellow{
+	color: #C2B40C;
+}
+.font-c{
+	font-family: Courgette;
+}
+/* Header */
+#menu{
+	background-color: black;
+	height: 100px;
+}
+.logo{
+	height: 30px;
+    width: auto;
+}
+.navbar-default{
+	border-bottom: none !important;
+	height: 10%;
+}
+.navbar-nav>li>a{
+	background-color: transparent !important;
+}
+.navbar-header, .navbar-nav, .navbar-default{
+	background-color: black !important;
+}
+#header a{
+	color: white;
+	font-family: Open Sans;
+}
+/* Banner */
+#Lifestyle img{
+	position: relative;
+	margin-top: 2%;
+}
+.caja1{
+	width: 60%;
+	height:40%;
+	background-color: black;
+	position: absolute;
+	top: 40%;
+	left: 20%;
+	padding: 5%;
+}
+/* Fondos */
+.bg-black{
+	background-color: #1A141C;
+}
+
+/* Flores */
+.caja2{
+	padding: 2%;
+}
+/* Caja de busqueda */
+.search{
+	padding: 4%;
+	display: block;
+}
+.caja-gris{
+	background-color: #342738;
+	border-radius: 5px;
+	border: none;
+	height: 40px;
+	margin:2% 0;
+	padding-left: 2%;
+}
+/* Icono */
+.icono{
+	font-size: 2em;
+	color: white;
+	background-color:  #342738;
+	border-radius: 100px;
+	padding: 4%;
+	margin: 2%;
+}
+/* Footer */
+#footer{
+	background-color: #1A141C;
+	height:80px;
+	margin-top: 4%;
+}
